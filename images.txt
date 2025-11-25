@@ -3,6 +3,5 @@ azul/zulu-openjdk-debian:21-latest
 azul/zulu-openjdk-debian:17-latest
 azul/zulu-openjdk-debian:8-latest
 debian
-mcr.microsoft.com/windows/servercore:ltsc2025
 mcr.microsoft.com/windows/servercore:ltsc2022
 mcr.microsoft.com/windows/servercore:ltsc2019
